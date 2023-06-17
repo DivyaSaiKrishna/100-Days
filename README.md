@@ -2,7 +2,7 @@
 100 days of practice of Web Development , Backend , Frontend projects
 
 
-# Backend projects
+# Java Backend projects
 
 | Project Name | Type            | Description                |
 | :--------    | :-------        | :------------------------- |
