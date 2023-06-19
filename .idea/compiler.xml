@@ -8,14 +8,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ToDoList" />
+        <module name="Java8API" />
+        <module name="JWTAuth" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ToDoList" target="17" />
+      <module name="Java8API" target="1.8" />
+      <module name="JWTAuth" target="17" />
+      <module name="ToDoList" target="16" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="JWTAuth" options="-parameters" />
+      <module name="Java8API" options="-parameters" />
       <module name="ToDoList" options="-parameters" />
     </option>
   </component>

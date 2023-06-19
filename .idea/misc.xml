@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/Backend_Projects/ToDoList/pom.xml" />
         <option value="$PROJECT_DIR$/Java_Backend_Projects/ToDoList/pom.xml" />
+        <option value="$PROJECT_DIR$/Java_Backend_Projects/Java8API/pom.xml" />
+        <option value="$PROJECT_DIR$/Java_Backend_Projects/JWTAuth/pom.xml" />
       </list>
     </option>
   </component>
