@@ -1,4 +1,4 @@
-package com.Days.JWTAuth.Bussiness.Model;
+package com.Days.JWTAuth.Bussiness.Entity;
 
 import lombok.Data;
 
@@ -6,7 +6,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 @Data
-public class User implements Serializable {
+public class UserEntity implements Serializable {
 
     private String id;
     private String userName;
@@ -14,4 +14,5 @@ public class User implements Serializable {
     private String password;
     private Boolean isActive;
     private Date createdDate;
+
 }

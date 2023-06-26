@@ -14,7 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Java8API" target="1.8" />
-      <module name="JWTAuth" target="17" />
+      <module name="JWTAuth" target="16" />
       <module name="ToDoList" target="16" />
     </bytecodeTargetLevel>
   </component>
