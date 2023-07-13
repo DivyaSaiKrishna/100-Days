@@ -7,22 +7,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Java17API" />
+        <module name="khatting" />
         <module name="ToDoList" />
         <module name="Java8API" />
         <module name="JWTAuth" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Java17API" target="16" />
       <module name="Java8API" target="1.8" />
       <module name="JWTAuth" target="16" />
+      <module name="khatting" target="16" />
       <module name="ToDoList" target="16" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="JWTAuth" options="-parameters" />
+      <module name="Java17API" options="-parameters" />
       <module name="Java8API" options="-parameters" />
       <module name="ToDoList" options="-parameters" />
+      <module name="khatting" options="-parameters" />
     </option>
   </component>
 </project>

@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/100-Days.iml" filepath="$PROJECT_DIR$/.idea/100-Days.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Backend_Projects/JWTAuth/JWTAuth.iml" filepath="$PROJECT_DIR$/Java_Backend_Projects/JWTAuth/JWTAuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Backend_Projects/Java17API/Java17API.iml" filepath="$PROJECT_DIR$/Java_Backend_Projects/Java17API/Java17API.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Backend_Projects/Java8API/Java8API.iml" filepath="$PROJECT_DIR$/Java_Backend_Projects/Java8API/Java8API.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Backend_Projects/ToDoList/ToDoList.iml" filepath="$PROJECT_DIR$/Java_Backend_Projects/ToDoList/ToDoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Backend_Projects/khatting/khatting.iml" filepath="$PROJECT_DIR$/Java_Backend_Projects/khatting/khatting.iml" />
     </modules>
   </component>
 </project>

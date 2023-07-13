@@ -3,8 +3,11 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Java_Backend_Projects/JWTAuth/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Java_Backend_Projects/JWTAuth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Java_Backend_Projects/Java17API/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Java_Backend_Projects/Java8API/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Java_Backend_Projects/ToDoList/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Java_Backend_Projects/ToDoList/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Java_Backend_Projects/khatting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Java_Backend_Projects/khatting/src/main/resources" charset="UTF-8" />
   </component>
 </project>
