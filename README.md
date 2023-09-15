@@ -9,6 +9,8 @@
 | ToDoList        | Java-Springboot | Create, ViewById, Update, Delete, ViewAll To-Do |
 | JWT Auth | Java-Springboot-JWT | Crete Token & Validate Token |
 | Java 8 Features | Java8 | All Java8 Features pratice |
+
+# Python projects
 | Hangman | python | Game |
 
 
